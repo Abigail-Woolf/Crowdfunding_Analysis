@@ -1,9 +1,19 @@
-# Crowdfunding_Analysis
+# Kickstarter Crowdfunding Analysis
 UC Berkeley Data Analytics Bootcamp- Excel
 
-For this assignment, I created two new analyses from the kickstarter campaign data in the Excel sheet above. I took a closer look at outcomes (failed, successful, canceled or live) based on monetary campaign goals. I also looked at outcomes based on the campaigns' launch date. This allowed me to choose the best time of the year to start a kickstarter campaign and allowed me to adjust my fundraising goal to increase the likelihood of success. 
+## Project Overview
+For this assignment, I created two new analyses from the kickstarter campaign data in the provided Excel campaign data. I took a closer look at outcomes (failed, successful, canceled or live) based on each campaigns' monetary goals. I also looked at outcomes based on the campaigns' launch date. This analysis is helpful to determine the best time of the year to start a kickstarter campaign and the best fundraisin goal to increase the likelihood of success. 
 ## Tools
-For this analysis, I used a dataset on previous campaigns on Microsoft Excel. I used filters and Excel formulas to create new, more manageable and relevant datasets. With the refined data, I created visulaizations using charts and pivot tables to more easily interpret the summary data. 
+- Microsoft Excel
+  - pivot tables
+  - filters
+## Folder Contents
+| Folders | Contents |
+|---------|----------|
+| Resources | Original Excel Data |
+| Excel Analysis | Excel Worksheet Containing Analysis |
+| Graphs | Images and Graphs for Analysis |
+
 ### Outcomes Based on Goals
 ![img](https://github.com/Abigail-Woolf/Kickstarter-Analysis/blob/master/Outcomes_Goals.png)
 
